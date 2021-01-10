@@ -1,8 +1,6 @@
-My first OOP project, ever...
-
 Welcome to Mobile World:
 
-I've implemented a console based app of a Mobile store.
+I've implemented a console input based app/bot, which simulates an online Mobile store.
 
 I've added more than 10 different models, with different specifications.
 
