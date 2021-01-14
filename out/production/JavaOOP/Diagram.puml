@@ -1,5 +1,0 @@
-@startuml
-Phone -> "ios()" : Hello
-"Bob()" -> "Phone" as Long
-
-@enduml
