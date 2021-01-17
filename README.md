@@ -10,4 +10,5 @@ It could be implemented an "in/out of stock" feature and sales report by managin
 
 Finally, printing the ordered phone with its specifications.
 
+could be runned in cmd or terminal.
 Actually - my first project.
